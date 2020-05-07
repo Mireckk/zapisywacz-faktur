@@ -1,0 +1,19 @@
+{
+  "name": "zapisywacz_faktur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mireckk/zapisywacz-faktur.git"
+  },
+  "author": "Mirek Michalski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mireckk/zapisywacz-faktur/issues"
+  },
+  "homepage": "https://github.com/Mireckk/zapisywacz-faktur#readme"
+}
